@@ -6,6 +6,11 @@ Made with love.
 
 
 
+
+
+How to Play
+________________________________
+
 1. Download and extract zip
 
 2. Go to cmd prompt
