@@ -5,8 +5,13 @@
 Made with love. 
 
 Download and extract zip
+
 Go to cmd prompt
-Go to file directory\n
+
+Go to file directory
+
 type in: javac *java
+
 type in: java Game
+
 Enjoy!
