@@ -4,14 +4,16 @@
 
 Made with love. 
 
-Download and extract zip
 
-Go to cmd prompt
 
-Go to file directory
+1. Download and extract zip
 
-type in: javac *java
+2. Go to cmd prompt
 
-type in: java Game
+3. Go to file directory
 
-Enjoy!
+4. type in: javac *java
+
+5. type in: java Game
+
+6. Enjoy!
